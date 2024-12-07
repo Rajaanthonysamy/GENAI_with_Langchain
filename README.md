@@ -3,3 +3,4 @@ Added till data injection
 Recursive text splitter
 html text splitter
 Embedding techniques added
+Vector db completed
