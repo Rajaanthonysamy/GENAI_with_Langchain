@@ -4,3 +4,4 @@ Recursive text splitter
 html text splitter
 Embedding techniques added
 Vector db completed
+simple genai app creation started
