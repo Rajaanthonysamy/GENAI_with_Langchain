@@ -5,3 +5,4 @@ html text splitter
 Embedding techniques added
 Vector db completed
 simple genai app creation startedSimple streamlit app completed
+Ollama implementation completed
