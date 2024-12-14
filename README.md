@@ -10,4 +10,4 @@ groq language transaltor completed
 chatbot added
 Chatbot with messge trimmer
 vector retriever RAG
-Rag implementation
+Rag Completed
