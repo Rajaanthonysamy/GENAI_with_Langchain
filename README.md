@@ -11,3 +11,4 @@ chatbot added
 Chatbot with messge trimmer
 vector retriever RAG
 Rag Completed
+Chatbot with openai
